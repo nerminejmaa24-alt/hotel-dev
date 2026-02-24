@@ -1,0 +1,6 @@
+{
+    "mongo_url":
+    "mongodb://localhost:27017/baseprojetmern",
+    "jwtSecret":"jwSercret",
+    "tokenExpire":"2592000"
+}
